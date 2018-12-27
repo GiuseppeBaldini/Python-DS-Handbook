@@ -2,4 +2,8 @@
 
 Going through ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas. 
 
-One Chapter per day. Notes in Jupyter Notebooks.  
+
+Notes in Jupyter Notebooks.  
+
+
+One Chapter a day. 
