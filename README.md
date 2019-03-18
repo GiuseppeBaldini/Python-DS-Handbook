@@ -1,5 +1,9 @@
 # Python Data Science Handbook
 
-Going through ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas. 
+Notes and code for ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas. 
 
-Notes in Jupyter Notebooks.  
+**Notes**
+
+The original material was great but I tried to make it my own by taking notes / editing the code so any mistake / part not clear is my own fault. 
+
+My code may differ from the book also because some parts were deprecated. I did my best to keep it current (as of March 2019)._
