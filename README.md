@@ -1,6 +1,6 @@
 # Python Data Science Handbook
 
-Notes and code for ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas. 
+Notes and code for [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas. 
 
 **Notes**
 
